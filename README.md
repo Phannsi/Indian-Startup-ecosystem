@@ -41,7 +41,7 @@ You can use this dataset to analyze the Indian startup ecosystem, explore invest
 
 ![Power BI Screenshot](Image/Picture.png)
 
-[Power BI Dashnoard](Indian startup ecosystem - Power BI)
+[Power BI Dashboard](https://app.powerbi.com/groups/me/reports/a9e5d660-3e02-4578-a402-09bb8bd8a438/ReportSection?experience=power-bi)
 
 ## Examples
 
